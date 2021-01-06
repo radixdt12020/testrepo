@@ -1,5 +1,5 @@
 function add(a,b)
 {
-    return "welcome";
+    return a+b
     
 }
