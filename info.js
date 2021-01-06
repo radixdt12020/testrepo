@@ -1,4 +1,4 @@
 function add(a,b)
 {
-return "hello world"
+return "heading"
 }
